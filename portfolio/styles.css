@@ -1,0 +1,32 @@
+.body-uno{
+    background-color: #009144;
+}
+.navbar-toggler{
+    background-color: #ff004e;
+}
+.container-fluid, .navbar-brand{
+    background-color: #ff396f;
+}
+.offcanvas-body{
+    background-color: #fdc612;
+}
+.offcanvas-header{
+    background-color: #ff004e
+}
+.navbar-brand{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+.navbar-brand:focus{
+    color: #02933a;
+  }
+p{
+    color: #ff004e;
+}
+h5{
+    color: #004cc7
+}
+.carousel-inner, .carousel-item{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
